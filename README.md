@@ -76,7 +76,7 @@
 <br>
 
 ## Для связи
-[![Email](https://thumbs.dreamstime.com/b/none-177959495.jpg?w=768)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email]📩](mailto:german@dolnikov.ru)
+[![Telegram Badge]📱](https://t.me/dolnikov)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
