@@ -76,14 +76,9 @@
 <br>
 
 ## Для связи
-[![Email]📩](mailto:SimonovaQA@yandex.ru)
-<br>
-[![Telegram]📱](https://t.me/SimonovaDasha)
-<img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/>
-<img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/>
 
-📩 [Почта: SimonovaQA@yandex.ru](mailto:SimonovaQA@yandex.ru)
+📩 Почта: [SimonovaQA@yandex.ru](mailto:SimonovaQA@yandex.ru)
 <br>
-📱 [Телеграмм: @SimonovaDasha](https://t.me/SimonovaDasha)
+📱 Телеграмм: [@SimonovaDasha](https://t.me/SimonovaDasha)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
