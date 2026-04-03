@@ -81,13 +81,5 @@
 
 
 <br>
-<br>
-<br>
-
-## Для связи
-
-📩 Почта: [SimonovaQA@yandex.ru](mailto:SimonovaQA@yandex.ru)
-<br>
-📱 Телеграмм: [@SimonovaDasha](https://t.me/SimonovaDasha)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
