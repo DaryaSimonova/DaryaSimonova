@@ -39,6 +39,9 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/atlassian-confluence-icon.png" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
+    <img src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_buildin.png" title="Buildin" alt="Buildin" width="40" height="40"/>&nbsp
+    <img src="https://github.com/belyakovko/belyakovko/blob/65c743bd66e48ffc9757665731780eb3a755858b/assets/logo_miro.png" title="Miro" alt="Miro" width="40" height="40"/>&nbsp
+   
   </div>
 
 ## Работа с базами данных
