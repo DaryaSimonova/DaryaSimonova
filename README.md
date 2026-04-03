@@ -76,7 +76,8 @@
 <br>
 
 ## Для связи
-[![Email]📩](mailto:german@dolnikov.ru)
-[![Telegram Badge]📱](https://t.me/dolnikov)
+[![Email]📩](mailto:SimonovaQA@yandex.ru)
+<br>
+[![Telegram]📱](https://t.me/SimonovaDasha)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
